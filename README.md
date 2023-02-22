@@ -1,6 +1,6 @@
 # Olá, meu nome é Arthur Borges 👋
 ### Sou desenvolvedor backend, trabalho tanto com C# quanto Java e seus respectivos frameworks
-### Tenho noção basica de algumas liguagens usadas no frontend como Angular e React mas não aprofundei meus conhecimentos
+### Tenho noção basica de algumas liguagens usadas no frontend como Angular e React
 #
 ### Atualmente trabalho na empresa Arpia Tecnologia,Uberlândia, MG
 #
